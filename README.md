@@ -1,4 +1,11 @@
-# mtrC-GWAS
-Code to reproduce figures in Ma and Mortimer et al., 2020 (["Adaptation to the cervical environment is associated with increased antibiotic susceptibility in Neisseria gonorrhoeae"](https://www.nature.com/articles/s41467-020-17980-1.pdf)).
+# Code associated with "Adaptation to the cervical environment is associated with increased antibiotic susceptibility in Neisseria gonorrhoeae"
 
-The Jupyter notebook, which steps through all analyses, can be downloaded [here](https://github.com/gradlab/mtrC-GWAS/blob/master/mtrC-GWAS-notebook.ipynb) and can be visualized [here](https://nbviewer.jupyter.org/github/gradlab/mtrC-GWAS/blob/master/mtrC-GWAS-notebook.ipynb).
+Kevin C. Ma*, Tatum D. Mortimer*, Allison L. Hicks, Nicole E. Wheeler, Leonor Sánchez-Busó, Daniel Golparian, George Taiaroa, Daniel H. F. Rubin, Yi Wang, Deborah A. Williamson, Magnus Unemo, Simon R. Harris, Yonatan H. Grad
+
+`*` denotes equal contribution
+
+[doi: 10.1038/s41467-020-17980-1](https://www.nature.com/articles/s41467-020-17980-1.pdf)
+
+Correspondence: kevinchenma@g.harvard.edu and mortimer@hsph.harvard.edu
+
+The Jupyter notebook, which steps through all analyses, can be [downloaded here](https://github.com/gradlab/mtrC-GWAS/blob/master/mtrC-GWAS-notebook.ipynb) and [visualized here](https://nbviewer.jupyter.org/github/gradlab/mtrC-GWAS/blob/master/mtrC-GWAS-notebook.ipynb).
