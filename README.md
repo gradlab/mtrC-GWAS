@@ -9,3 +9,5 @@ Kevin C. Ma*, Tatum D. Mortimer*, Allison L. Hicks, Nicole E. Wheeler, Leonor SÃ
 Correspondence: kevinchenma@g.harvard.edu and mortimer@hsph.harvard.edu
 
 The Jupyter notebook, which steps through all analyses, can be [downloaded here](https://github.com/gradlab/mtrC-GWAS/blob/master/mtrC-GWAS-notebook.ipynb) and [visualized here](https://nbviewer.jupyter.org/github/gradlab/mtrC-GWAS/blob/master/mtrC-GWAS-notebook.ipynb).
+
+Assemblies available [here](https://hu-my.sharepoint.com/:u:/g/personal/mortimer_hsph_harvard_edu/ER3MQCJsQQBNhmQCsqXWw8kB0FZywn1GVROc4SGZtXLSWg?e=szJIWb).
