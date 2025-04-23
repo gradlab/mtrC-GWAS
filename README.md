@@ -6,7 +6,7 @@ Kevin C. Ma*, Tatum D. Mortimer*, Allison L. Hicks, Nicole E. Wheeler, Leonor SÃ
 
 [doi: 10.1038/s41467-020-17980-1](https://www.nature.com/articles/s41467-020-17980-1.pdf)
 
-Correspondence: kevinchenma@g.harvard.edu and mortimer@hsph.harvard.edu
+Correspondence: kevincma@alumni.harvard.edu and tdm@uga.edu (https://mortimerlab.com/)
 
 The Jupyter notebook, which steps through all analyses, can be [downloaded here](https://github.com/gradlab/mtrC-GWAS/blob/master/mtrC-GWAS-notebook.ipynb) and [visualized here](https://nbviewer.jupyter.org/github/gradlab/mtrC-GWAS/blob/master/mtrC-GWAS-notebook.ipynb).
 
